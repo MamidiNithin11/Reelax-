@@ -1,8 +1,0 @@
-{
-  "name": "Ticket Resale Dashboard",
-  "description": "An elegant, responsive, and pixel-perfect dashboard for managing ticket resales, analytics, and transaction listings.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
